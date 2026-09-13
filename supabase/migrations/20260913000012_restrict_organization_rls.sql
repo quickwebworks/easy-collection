@@ -1,0 +1,1 @@
+drop policy if exists "authorized_users_can_view_organizations" on public.organizations;
